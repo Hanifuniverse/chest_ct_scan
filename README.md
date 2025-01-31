@@ -179,7 +179,7 @@ Berdasarkan eksperimen yang telah dilakukan, didapatkan hasil sebagai berikut:
 - Dengan evaluasi menggunakan confusion matrix dan visualisasi hasil prediksi, dapat disimpulkan bahwa model masih perlu dioptimalkan untuk meningkatkan performa dalam mendeteksi kelainan paru akibat COVID-19.  
 
 
-![image](https://github.com/user-attachments/assets/bf07211e-25d5-48ed-93c1-51fdadd5d1eb)# PENGOLAHAN CITRA DIGITAL  
+![image](https://github.com/user-attachments/assets/bf07211e-25d5-48ed-93c1-51fdadd5d1eb)
 
 
 # BAB IV  
