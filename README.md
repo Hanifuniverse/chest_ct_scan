@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/bf07211e-25d5-48ed-93c1-51fdadd5d1eb)# PENGOLAHAN CITRA DIGITAL  
 ## DETEKSI KELAINAN PARU PADA CHEST CT SCAN MENGGUNAKAN PYTORCH  
 
 Dibuat untuk mengerjakan Ulangan Akhir Semester (UAS) mata kuliah Pengolahan Citra Digital  
@@ -180,7 +179,7 @@ Berdasarkan eksperimen yang telah dilakukan, didapatkan hasil sebagai berikut:
 - Dengan evaluasi menggunakan confusion matrix dan visualisasi hasil prediksi, dapat disimpulkan bahwa model masih perlu dioptimalkan untuk meningkatkan performa dalam mendeteksi kelainan paru akibat COVID-19.  
 
 
-![Gambar 3.2 Positive for Cancer](image-path)
+![image](https://github.com/user-attachments/assets/bf07211e-25d5-48ed-93c1-51fdadd5d1eb)# PENGOLAHAN CITRA DIGITAL  
 
 
 # BAB IV  
