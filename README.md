@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c4206bda-c84a-4cd4-8e1f-4ba104659287)## DETEKSI KELAINAN PARU PADA CHEST CT SCAN MENGGUNAKAN PYTORCH  
+## DETEKSI KELAINAN PARU PADA CHEST CT SCAN MENGGUNAKAN PYTORCH  
 
 Dibuat untuk mengerjakan Ulangan Akhir Semester (UAS) mata kuliah Pengolahan Citra Digital  
 **Dosen Pengampu:** Leni Fitriani, ST., M.Kom  
