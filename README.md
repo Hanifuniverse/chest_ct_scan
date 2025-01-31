@@ -165,7 +165,8 @@ Model kemudian dilatih menggunakan data latih dengan optimasi parameter melalui 
 
 ### 3.5. Hasil  
 
-![Gambar 3.1 Hasil Training](image-path)  
+![Uploading image.png…]()
+
 
 Hasil pelatihan model dengan menganalisis nilai loss dan akurasi pada dataset pelatihan dan pengujian. Gambar di atas menunjukkan hasil pelatihan model selama 15 epoch, di mana setiap epoch merepresentasikan satu siklus penuh pelatihan menggunakan seluruh data latih.  
 Dari hasil pelatihan, terlihat bahwa train loss mengalami penurunan secara signifikan, dari 1.0259 pada epoch pertama menjadi sekitar 0.1679 pada epoch terakhir. Hal ini menunjukkan bahwa model berhasil mempelajari pola dari data latih dengan baik. Akurasi pada data latih juga meningkat dari 0.5494 pada epoch pertama menjadi sekitar 0.9447 pada epoch terakhir, yang mengindikasikan bahwa model mampu mengklasifikasikan data latih dengan baik.  
