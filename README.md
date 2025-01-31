@@ -1,4 +1,4 @@
-## DETEKSI KELAINAN PARU PADA CHEST CT SCAN MENGGUNAKAN PYTORCH  
+![image](https://github.com/user-attachments/assets/c4206bda-c84a-4cd4-8e1f-4ba104659287)## DETEKSI KELAINAN PARU PADA CHEST CT SCAN MENGGUNAKAN PYTORCH  
 
 Dibuat untuk mengerjakan Ulangan Akhir Semester (UAS) mata kuliah Pengolahan Citra Digital  
 **Dosen Pengampu:** Leni Fitriani, ST., M.Kom  
@@ -165,7 +165,7 @@ Model kemudian dilatih menggunakan data latih dengan optimasi parameter melalui 
 
 ### 3.5. Hasil  
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/41d8ce93-95ae-49ee-9f1a-cfbbcc08e6ef) 
 
 
 Hasil pelatihan model dengan menganalisis nilai loss dan akurasi pada dataset pelatihan dan pengujian. Gambar di atas menunjukkan hasil pelatihan model selama 15 epoch, di mana setiap epoch merepresentasikan satu siklus penuh pelatihan menggunakan seluruh data latih.  
