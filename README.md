@@ -105,7 +105,8 @@ Penelitian ini bertujuan untuk mengembangkan model berbasis *deep learning* meng
 
 ### 2.1. Langkah-langkah Penelitian  
 
-![Gambar 2.1 Langkah Penelitian](image-path)  
+![image](https://github.com/user-attachments/assets/c58d5c02-5a72-421f-b003-99b72607f0a8)
+
 
 Penelitian ini dilakukan menggunakan pendekatan Deep Learning berbasis PyTorch untuk mendeteksi kelainan paru pada gambar Chest CT Scan. Metode penelitian terdiri dari beberapa tahapan, yaitu:  
 
